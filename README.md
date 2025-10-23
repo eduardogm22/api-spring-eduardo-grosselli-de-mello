@@ -13,6 +13,7 @@
 - Todas as rotas são autenticadas, exceto a de cadastro.
 ---
 ## 🌐 Endpoints 
+> Collection do Postman: [Clique aqui para acessar]( https://web.postman.co/workspace/My-Workspace~b6675b87-cd40-4eff-8973-bbe06d0d9a3a/collection/44013103-2353ddbf-f14d-4814-acf7-245e8ead47ee?action=share&source=copy-link&creator=44013103 )
 
 ## 👤 Usuários
 
