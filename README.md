@@ -107,7 +107,7 @@
 }
 ```
 - **401 Unauthorized** → retorna caso o usuário/ senha não estejam cadastrados
-  no banco de dados, ou não forma informados na requisição.
+  no banco de dados, ou não foram informados na requisição.
 ---
 ## 📦 Produtos
 ### ➕ Cadastrar Produto
@@ -230,6 +230,6 @@
 }
 ```
 - **401 Unauthorized** → retorna caso o usuário/ senha não estejam cadastrados 
-no banco de dados, ou não forma informados na requisição.
+no banco de dados, ou não foram informados na requisição.
 ---
 
